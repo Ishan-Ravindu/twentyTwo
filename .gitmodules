@@ -1,0 +1,9 @@
+[submodule "twentyTwo-client"]
+	path = twentyTwo-client
+	url = https://github.com/Ishan-Ravindu/twentyTwo-client.git
+[submodule "twentyTwo-admin"]
+	path = twentyTwo-admin
+	url = https://github.com/Ishan-Ravindu/twentyTwo-admin.git
+[submodule "twentyTwo-api"]
+	path = twentyTwo-api
+	url = https://github.com/Ishan-Ravindu/twentyTwo-api.git
